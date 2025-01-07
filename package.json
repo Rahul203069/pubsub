@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dockerode": "^2.5.5",
     "express": "^4.21.2",
     "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/dockerode": "^3.3.34"
   }
 }
